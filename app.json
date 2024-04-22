@@ -1,0 +1,7 @@
+{
+  "name": "Abdullah Video Call",
+  "description": " Video Call App powered by Abdullah",
+  "repository": "https://github.com/nguymin4/react-videocall",
+  "logo": "https://raw.githubusercontent.com/nguymin4/react-videocall/production/client/src/assets/icon1.png",
+  "keywords": ["react", "express", "video call"]
+}
